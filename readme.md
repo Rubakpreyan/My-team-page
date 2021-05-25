@@ -12,7 +12,7 @@ git clone "https://github.com/rubakpreyan/My-team-page.git"
 ```
 
 ## Demo link
-[My team page demo link](/)
+[My team page demo link]( https://rubakpreyan.github.io/My-team-page/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
