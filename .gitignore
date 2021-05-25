@@ -1,0 +1,11 @@
+# node files
+package.json
+node\_modules
+
+# Tailwind files
+tailwind.css
+postcss.config.js
+tailwind.config.js
+
+# CSS Build files
+build
